@@ -65,8 +65,8 @@ npm i karma-cli -g
 
 To run tests.
 
-``` npm test
+    npm test
 
-In order to see it running with express server run the following command.
+In order to see it running with express server run the following command and open ```http://localhost:3000 ``` on your machine
 
-``` npm start
+    npm start

@@ -16,7 +16,7 @@
                 title: '@'
             },
             template: `
-                <figure id="{{id}}" role="group"> 
+                <figure role="group"> 
                     <img src="{{picture}}" class="img-responsive" alt="{{firstname}} {{lastname}} is {{title}}"></img>
                     <figcaption class="text-center">{{firstname}}</figcaption>
                 </figure>
