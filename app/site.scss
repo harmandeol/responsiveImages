@@ -1,0 +1,10 @@
+@import '../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+/* Medium devices (desktops, 992px and up) */
+body {
+    color: #007FB1
+}
+.results-grid {
+    .img-responsive{
+       @include center-block()
+    }
+}
